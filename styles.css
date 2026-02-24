@@ -329,7 +329,7 @@ button:hover {
 .permission-title .mandatory {
   color: red;
   font-size: inherit;
-  font-weight: inherit;
+  font-weight: bold;
   line-height: inherit;
 }
 
